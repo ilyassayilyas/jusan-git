@@ -1,4 +1,5 @@
 # stepik-id-printer (h1)
+![Jusan Logo](https://ucarecdn.com/02b8ff49-8f2b-4ce9-be84-7d4bdc6b9b67/)
 Это проект для вывода моего персонального идентификатора на образовательной платформе ```stepik.org```
 ## Возможности (h2)
 Данный проект имеет следующий функционал.
@@ -44,4 +45,3 @@ int main() {
 | WhatsApp | [Ссылка](https://github.com/)|   30 минут    |
 | Telegram | [Ссылка](https://github.com/)|   5 минту     |
 
-username.sh выводит мое имя на латинице
