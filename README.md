@@ -44,3 +44,4 @@ int main() {
 | WhatsApp | [Ссылка](https://github.com/)|   30 минут    |
 | Telegram | [Ссылка](https://github.com/)|   5 минту     |
 
+username.sh выводит мое имя на латинице
